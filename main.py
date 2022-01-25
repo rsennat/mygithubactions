@@ -11,3 +11,5 @@ def bye():
 
 
 print(hello())
+
+print(bye())
